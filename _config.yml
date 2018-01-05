@@ -48,3 +48,6 @@ google_analytics: UA-35879165-1
 # disqus
 disqus:
   shortname: kgroshev
+
+# post excerpt separator
+excerpt_separator: <!--more-->
