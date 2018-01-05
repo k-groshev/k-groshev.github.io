@@ -2,6 +2,8 @@
 layout: page
 title: Non-destructive testing complex for control of magnetic properties as a part of data system of grain-oriented steel production department of Novolipetsk Steel (in Russian)
 permalink: /pub_2005_eburg
+exclude: true
+comments: true
 ---
 # Abstract:
 The paper deals with using non-destructive testing complex for control of magnetic properties as a part of data system of grain-oriented steel production department

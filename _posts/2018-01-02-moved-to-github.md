@@ -3,6 +3,7 @@ layout: post
 title:  "Moved to github"
 date:   2018-01-02 22:58:55 +0300
 categories: jekyll update site
+comments: true
 ---
 Hello, all!
 

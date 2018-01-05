@@ -2,6 +2,8 @@
 layout: page
 title: Data interchange between automated data systems of different automatisation level in grain-oriented steel production department of Novolipetsk Steel (in Russian)
 permalink: /pub_2004_lipetsk
+exclude: true
+comments: true
 ---
 # Abstract:
 The paper deals with data interchange between automated data systems of different automatisation level in grain-oriented steel production department.

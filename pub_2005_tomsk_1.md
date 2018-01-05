@@ -2,13 +2,13 @@
 layout: page
 title: Line production controller for estimation of properties of sheet steel rolled stock (in Russian)
 permalink: /pub_2005_tomsk_1
+exclude: true
+comments: true
 ---
 # Abstract:
-
 The paper deals with line production controller for estimation of properties of sheet steel rolled stock.
 
 # Authors:
-
 * A. V. Cherepanov
 * S. P. Slauta
 * K. A. Groshev

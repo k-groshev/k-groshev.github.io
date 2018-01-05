@@ -2,13 +2,13 @@
 layout: page
 title: Unit for magnetic properties modeling of anisotropic electrical sheet steel (in Russian)
 permalink: /pub_2008_journal
+exclude: true
+comments: true
 ---
 # Abstract:
-
 The article deals with the calibration methods for variable inductance transducers of anisotropic magnetic properties. It presents experimental unit implementing the calibration method of measured values simulation. Thus the virtual device providing magnetic properties modeling of anisotropic electrical sheet steel is developed.
 
 # Authors:
-
 * A. V. Cherepanov
 * S. P. Slauta
 * K. A. Groshev
