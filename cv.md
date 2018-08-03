@@ -13,25 +13,27 @@ Since I am a technologycal geek, my resume and cv are building by CI from scratc
 <!-- and in Russian ([resume][cv-ru-short] and [cv][cv-ru-full])
 -->. And of course, you can find me via [linkedIn][cv-linkedin].
 
-<!-- <iframe src="https://docs.google.com/viewer?url=https://www.dropbox.com/s/yotucllhvnlyp8z/groshev_ka_ru_onepage.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<!-- <iframe src="https://docs.google.com/viewer?url=https://www.dropbox.com/s/yotucllhvnlyp8z/groshev_ka_ru_onepage.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe> --> 
 
 <!-- SMALL MODAL BUTTON -->  
-            <div class="modal-button-resume">
+<!--             <div class="modal-button-resume">
               <button class="btn btn-resume" data-toggle="modal" data-target=".bs-example-modal-lg">View Resume</button>
-            </div>
+            </div> -->
             <!-- RESUME MODAL --> 
-            <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<!--             <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                   <div class="modal-header">
-                    <h4 class="modal-title" id="myModalLabel">Resume: Konstantin<button type="button" class="close" data-dismiss="modal" aria-label="Close" data-backdrop="static" data-keyboard="false"><span aria-hidden="true" >&times;</span></button></h4>
-                  </div><!-- end modal header-->
+                    <h4 class="modal-title" id="myModalLabel">Resume: Konstantin<button type="button" class="close" data-dismiss="modal" aria-label="Close" data-backdrop="static" data-keyboard="false"><span aria-hidden="true" >&times;</span></button></h4> 
+                  </div> --> <!-- end modal header-->
+                  <!--
                   <div class="modal-body">
                      <embed id="modalembed" class="resume" src="https://www.dropbox.com/s/1vub8t1dbna6uz5/groshev_ka_en_onepage.pdf?dl=0">
-                  </div><!-- end modal body-->
-                </div><!-- end modal content-->
-              </div><!-- end modal dialog-->
-            </div><!-- end modal-->    --> 
+                  </div> --><!-- end modal body-->
+                <!-- </div> --><!-- end modal content-->
+              <!-- </div> --><!-- end modal dialog-->
+           <!--  </div> --><!-- end modal-->    
+        
 
 [cv-en-full]: https://www.dropbox.com/s/jhai7cyf183thkv/groshev_ka_en.pdf?dl=0
 [cv-en-short]: https://www.dropbox.com/s/1vub8t1dbna6uz5/groshev_ka_en_onepage.pdf?dl=0
