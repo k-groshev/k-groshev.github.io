@@ -11,6 +11,10 @@ This page contains information about all of my publications, both published and 
 1. A. V. Cherepanov, S. P. Slauta, and **K. A. Groshev**. “[Unit for magnetic properties modeling of anisotropic electrical sheet steel (in Russian)][journal-1]”. *Instruments and Systems: Monitoring, Control, and Diagnostics 9* (2008), pp. 57–60.
 Acceptance rate = 87.5% (3.5/4).
 
+# Talks
+
+1. **K. A. Groshev**. “[Strange java (in Russian)][conf-smdev-2018]” talked on November, 23rd of 2018 on [SMDev][smdev-off-site] conference. Lipetsk, Russia.
+
 # Conference papers
 6. A. V. Cherepanov, S. P. Slauta, and **K. A. Groshev**. “[Using results of non-destructive testing in software for quality control of grain-oriented steel(in Russian)][conf-eburg-2007]”. *Trudy III Ross. nauch.-tekhn. konf. ”Razrushenie, kontrol’ i diagnostika materialov i konstruktsii”, (Proc. of III Russ. Sci.-Tech. Conf. ”Destruction, Inspection and Diagnostics of Materials and Constructions”).* Yekaterinburg, Russia: Institute of Engineering Science, Ural Branch, The Russian Academy of Sciences, 2007.
 Acceptance rate = 75% (3/4).
@@ -37,3 +41,5 @@ Acceptance rate = 67.5% (2.7/4)
 [conf-tomsk-2005-1]: /pub_2005_tomsk_1
 [conf-eburg-2005]: /pub_2005_eburg
 [conf-lipetsk-2004]: /pub_2004_lipetsk
+[conf-smdev-2018]: /pub_2018_smdev
+[smdev-off-site]: https://smdev.sportmaster.ru/
