@@ -17,4 +17,4 @@ Since I am a technologycal geek, my resume and cv are building by CI from scratc
 [cv-en-short]: https://www.dropbox.com/s/1vub8t1dbna6uz5/groshev_ka_en_onepage.pdf?dl=0
 [cv-ru-full]: https://www.dropbox.com/s/w8nf2ij21xdwf97/groshev_ka_ru.pdf?dl=0
 [cv-ru-short]: <iframe src="https://docs.google.com/viewer?url=https://www.dropbox.com/s/yotucllhvnlyp8z/groshev_ka_ru_onepage.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
-[cv-linkedin]: http://www.linkedin.com/pub/konstantin-groshev/
+[cv-linkedin]: http://linkedin.com/in/kgroshev
