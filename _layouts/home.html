@@ -23,6 +23,12 @@ layout: default
           </div>
           <div  style="width=20%; float:right;"><span class="post-meta">{{ post.date | date: date_format }}</span></div>
           </div>
+          <div style="clear: both;"></div>         
+          {% if post.tags.size > 0 %}
+             Tag{% if post.tags.size > 1 %}s{% endif %}:
+               {{ post.tags | sort | join: ", " }}
+          {% endif %}
+
           <div style="clear: both;"></div> 
           {% if post.excerpt %}
              {{ post.excerpt }}

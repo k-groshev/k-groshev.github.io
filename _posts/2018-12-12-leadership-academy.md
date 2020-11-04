@@ -3,6 +3,7 @@ layout: post
 title:  "Achievement unlocked: Luxoft Leadership Academy"
 date:   2018-12-12 10:58:55 +0300
 categories: courses 
+tags: leadership
 comments: true
 author: Konstantin
 ---
