@@ -11,12 +11,14 @@ Since 2014 I worked as a head of a development department in e-comerce and manag
 
 Starting with 2016, I help different teams to make great products for automotive business sector. From zero to hero, starting with requirements management, going though the SoW/WBS/plans/team setup to day-to-day management and leadership with verification and validation. 
 
-Since I am a technologycal geek, my resume and cv are building by CI from scratch. Current versions of these files you can find in English ([resume][cv-en-short] and [cv][cv-en-full]) 
+Since I am a technologycal geek, my resume and cv are building by CI from scratch. Current versions of these files you can find in English ([resume][cv-en-short-master] and [cv][cv-en-full-master]) 
 <!-- and in Russian ([resume][cv-ru-short] and [cv][cv-ru-full])
 -->. And of course, you can find me via [linkedIn][cv-linkedin].
 
-[cv-en-full]: https://www.dropbox.com/s/jhai7cyf183thkv/groshev_ka_en.pdf?dl=0
-[cv-en-short]: https://www.dropbox.com/s/1vub8t1dbna6uz5/groshev_ka_en_onepage.pdf?dl=0
+[cv-en-full-master]: https://www.dropbox.com/s/aob0o2lkpdtdt59/groshev_ka_en.pdf?dl=0
+[cv-en-short-master]: https://www.dropbox.com/s/1w43nmx9yf9b0gf/groshev_ka_en_onepage.pdf?dl=0
+[cv-en-full-dev]: https://www.dropbox.com/s/hrvg362b74azi7y/groshev_ka_en.pdf?dl=0
+[cv-en-short-dev]: https://www.dropbox.com/s/dym9rd4nto2bbj0/groshev_ka_en_onepage.pdf?dl=0
 [cv-ru-full]: https://www.dropbox.com/s/w8nf2ij21xdwf97/groshev_ka_ru.pdf?dl=0
 [cv-ru-short]: <iframe src="https://docs.google.com/viewer?url=https://www.dropbox.com/s/yotucllhvnlyp8z/groshev_ka_ru_onepage.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 [cv-linkedin]: http://linkedin.com/in/kgroshev
