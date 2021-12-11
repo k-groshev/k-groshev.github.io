@@ -1,6 +1,6 @@
 Sources for y blog http://groshev.net
 
-#to run locally
+# to run locally
 install bundle and jekyll
 ```
 gem install bundler jekyll
