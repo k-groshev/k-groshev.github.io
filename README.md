@@ -1,4 +1,4 @@
-Sources for y blog https://www.groshev.net
+Sources for the blog https://www.groshev.net
 
 # to run locally
 install bundle and jekyll
